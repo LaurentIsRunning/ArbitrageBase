@@ -11,4 +11,4 @@ Hopefully there are still rooms to take thanks to the huge amount of different c
 So I hope that this repository will help you to spare time by showing the basics of arbitrage.
 
 ## General Architecture
-(https://github.com/LaurentIsRunning/ArbitrageBase/blob/master/img/Architecture.PNG)
+(ArbitrageBase/img/Architecture.PNG)
