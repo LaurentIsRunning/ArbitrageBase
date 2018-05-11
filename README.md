@@ -21,6 +21,9 @@ The project is composed by the following element:
 * The communication with the different exchanges
 * The reporting to a googlesheet and by email
 
+## Code Description
+I'm currently writing a full explanaition of my code. The link will be posted here.
+
 ## Thank you very much
 If my work was usefull for your projects, do not hesitate to support me at these addresses :-):
 * XMR : 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWFvhDDA4yDeN6fV66w
