@@ -13,7 +13,7 @@ class ArbitrageException(Exception):
 
 
 class ExchangeManager(object):
-  """description of class"""
+  """Wrapper around ccxt library"""
 
   def __init__(self, **kwargs):
     self.messageCounter = 0

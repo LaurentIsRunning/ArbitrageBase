@@ -2,7 +2,6 @@ import logging
 from logging.handlers import RotatingFileHandler
 import time
 import asyncio
-import ccxt.async as ccxt  # noqa: E402
 from Tools import *
 from GoogleSheetClient import *
 from SmtpClient import *
