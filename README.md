@@ -1,4 +1,7 @@
 # ArbitrageBase
+
+(!! WORK IN PROGRESS !!)
+
 ## Introduction
 A basic application to perform cryptocurrency arbitrage in Python
 
