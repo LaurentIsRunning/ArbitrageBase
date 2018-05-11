@@ -9,7 +9,7 @@ from SmtpClient import *
 from ExchangeManager import *
 
 # Configure logging
-logger = logging.getLogger("Crygen")
+logger = logging.getLogger("Arbitrage")
 logger.setLevel(logging.INFO)
 rotatingFileHandler = RotatingFileHandler("log.txt", maxBytes=500000, backupCount=50)
 rotatingFileHandler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
