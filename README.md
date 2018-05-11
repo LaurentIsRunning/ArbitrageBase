@@ -17,9 +17,9 @@ So I hope that this repository will help you in your quest for money :-) and wil
 ![General Architecture](/img/Architecture.PNG)
 
 The project is composed by the following element:
-* The arbitrage algorithm
-* The communication with the different exchanges
-* The reporting to a googlesheet and by email
+* The arbitrage algorithm : [Arbitrage.py](Arbitrage.py)
+* The communication with the different exchanges : [ExchangeManager.py](ExchangeManager.py) which is using the [CCXT library](https://github.com/ccxt/ccxt)
+* The reporting to a googlesheet and by email: [GoogleSheetClient.py](GoogleSheetClient.py) and [SmtpClient.py](SmtpClient.py)
 
 ## Code Description
 I'm currently writing a full explanaition of my code. The link will be posted here.
